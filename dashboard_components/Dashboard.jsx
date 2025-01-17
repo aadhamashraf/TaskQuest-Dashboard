@@ -6,8 +6,7 @@ const Dashboard = () => {
   return (
     <Box sx={{ flexGrow: 1, p: 3, backgroundColor: 'background.default' }}>
       <Grid container spacing={3}>
-        <DashboardMetrics />
-        <DashboardCharts />
+        <DashboardMetrics /> <DashboardCharts />
       </Grid>
     </Box>
   );
