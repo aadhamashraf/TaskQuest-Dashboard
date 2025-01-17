@@ -1,4 +1,5 @@
 // Financial Data
+
 export const financialMetrics = {
   totalBudget: 25000,
   totalSpent: 12450,
